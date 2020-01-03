@@ -15,6 +15,7 @@ public class log4j {
 		//log.error("Error");
 		
 		System.out.println("info error----34544");
+		System.out.println("hii");
 		
 		
 	}
